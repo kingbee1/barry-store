@@ -1,0 +1,48 @@
+.contact {
+    width: 100%;
+    height: 100vh;
+    background: rgb(41, 39, 39);
+}
+
+.a_home {
+    text-decoration: none;
+    color: #fff;
+}
+
+.inputs {
+    width: 60%;
+    height: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    h1 {
+        color: #fff;
+    }
+
+    input {
+        width: 100%;
+        padding: 20px;
+        margin-block: 1rem;
+        outline: none;
+        border: none;
+    }
+    button {
+        padding: 10px 40px;
+        cursor: pointer;
+    }
+}
+
+@media (max-width:1200px) {
+    .inputs {
+        width: 80%;
+    }
+}
+
+@media (max-width:650px) {
+    .inputs {
+        padding: 17px;
+    }
+}
