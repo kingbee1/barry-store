@@ -20,70 +20,70 @@ const Content = () => {
             <div className="cards long">
                 <img src={product1} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Airforce Jordan</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product2} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Hand Bag</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product3} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Brown Purse</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product4} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Suede Brogue</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product5} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p> Wrist Watch</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product6} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Floral Heels</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product7} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Black Tees</p>
                 </div>
             </div>
 
             <div className="cards long2">
                 <img src={product8} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Executive Bag</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product9} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Sun Shades</p>
                 </div>
             </div>
 
             <div className="cards">
                 <img src={product10} alt='product' />
                 <div className="card_text">
-                    <p>You what it is</p>
+                    <p>Beanie</p>
                 </div>
             </div>
 
